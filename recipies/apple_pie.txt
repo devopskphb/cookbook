@@ -2,5 +2,8 @@ Apple Pie
 pastry
 butter
 flour
-10 apples
 1 tbsp cinnamon
+sugar
+apples
+salt
+eggs
